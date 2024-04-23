@@ -282,6 +282,7 @@
         "loadingError": "加載集數時出錯",
         "loadingList": "載入中...",
         "loadingTitle": "載入中...",
+        "seasons": "季",
         "unairedEpisodes": "本季中的一集或多集已因尚未播出而被禁用。"
       },
       "playback": {
